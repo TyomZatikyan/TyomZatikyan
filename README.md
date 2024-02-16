@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Artyom python
+Hello my name is Artyom i love python
 
 
 # 💻 Tech Stack:
